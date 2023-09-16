@@ -3,3 +3,6 @@ this is my message
 this is my second message
 
 my name is shoaib.
+today is saturday and a very sunny day.
+
+i hope it will rain today.
